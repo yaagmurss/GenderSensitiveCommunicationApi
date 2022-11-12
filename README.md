@@ -12,3 +12,5 @@ Forbidden Words List:
 - "elinin hamuru"
 
 Custom MiddleWare called **UseCustomExceptionMiddleware** is written to catch the Exception called **LanguageViolationException**.
+
+You can see the usage of middleware in startup.cs and also rewiew the code in the ExceptionMiddleware.cs Class. 
