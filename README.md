@@ -1,5 +1,3 @@
-# YagmurSolmaz-Week2-Homework
-
 This project is a sample Api that you can post an entry.
 If you **try to post forbidden words in text area, you wil get an error**.
 
