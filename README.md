@@ -13,4 +13,6 @@ Forbidden Words List:
 
 Custom MiddleWare called **UseCustomExceptionMiddleware** is written to catch the Exception called **LanguageViolationException**.
 
-You can see the usage of middleware in startup.cs and also rewiew the code in the ExceptionMiddleware.cs Class. 
+
+**NOTE**
+You can see the usage of custom middleware in startup.cs and also rewiew the code in the ExceptionMiddleware.cs Class. 
