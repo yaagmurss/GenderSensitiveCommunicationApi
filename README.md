@@ -11,8 +11,9 @@ Forbidden Words List:
 - "kadın işi",
 - "erkek işi",
 - "elinin hamuru"
-- 
+
 Custom MiddleWare called **UseCustomExceptionMiddleware** is written to catch the Exception called **LanguageViolationException**.
 
 NOTE : You can see the usage of custom middleware in startup.cs and also rewiew the code in the ExceptionMiddleware.cs Class.
+
 Also Check : https://medium.com/@yagmursolmaz/handle-errors-in-asp-net-core-web-apis-afcdbc5f1207
